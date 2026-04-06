@@ -1,0 +1,19 @@
+{
+  "name": "agent-files-marketplace",
+  "description": "Agent files plugin",
+  "owner": {
+    "name": "Agent Files Marketplace"
+  },
+  "plugins": [
+    {
+      "name": "agent-files",
+      "description": "Let your agent search for and collaborate on files across your team",
+      "category": "productivity",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/ryhinchey/agent-files-plugin",
+        "path": "agent-files"
+      }
+    }
+  ]
+}

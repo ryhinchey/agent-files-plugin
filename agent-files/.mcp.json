@@ -1,0 +1,6 @@
+{
+  "agent-files": {
+    "type": "http",
+    "url": "https://agent-files-web.vercel.app/mcp"
+  }
+}
